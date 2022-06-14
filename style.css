@@ -1,0 +1,71 @@
+
+body{
+    background: rgb(243, 227, 162);
+}
+#logo{
+    height: 500px;
+    width: 100%;
+
+}
+.principal{
+    background:rgb(243, 224, 146);
+    padding: 30px;
+}
+h1{
+    text-align: center;
+}
+
+#inicio{
+    text-align:center;
+    font-size: 25px;
+}
+
+.mvv{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.beneficios{
+    background:gray;
+    padding: 20px;
+}
+
+.itens{
+    font-style: italic;
+    font-size: 20px;
+}
+
+h2{
+    text-align: left;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width:20% ;
+    font-size: 20px;
+}
+strong{
+    color: red;
+}
+
+.clientes{
+    width: 15%;
+    margin-right: 3%;
+}
+.climatizado{
+    width: 15%;
+    margin-right: 3%;
+}
+.localizacao{
+    width: 15%;
+    margin-right: 3%;
+}
+.estacionamento{
+    width: 15%;
+    margin-right: 3%;
+}
+.contatos{
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+}
